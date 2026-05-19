@@ -1,7 +1,6 @@
 .env
 venv/
 __pycache__/
-*.pkl
 data/chroma_db/
 *.pyc
 *.pyo
